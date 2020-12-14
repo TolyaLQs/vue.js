@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ef097f3-490f-4c5d-8b7f-d917d4081f14" name="Default Changelist" comment="start project">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue.js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lcjWKyIO2ATK6rVhTrLF6AdeG0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef097f3-490f-4c5d-8b7f-d917d4081f14" name="Default Changelist" comment="" />
+      <created>1607903303638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607903303638</updated>
+      <workItem from="1607903306720" duration="1508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+  </component>
+</project>
